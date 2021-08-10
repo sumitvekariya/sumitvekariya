@@ -1,7 +1,7 @@
 ### Hi there I'm Sumit Vekariya👋
 
 - 🔭 I’m currently available for Freelance work, as MEAN Stack | Flutter Developer
-- 📫 How to reach me: sumitvekariya7@gmail.com or whatsapp +91 9727551757
+- 📫 How to reach me: sarkazein7@gmail.com or whatsapp +91 9727551757
 - 😄 What I do for fun: Err, I write Tech Articles.
 
 
