@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=sumitvekariya&color=brightgreen)
+
+
 ### Hi there I'm Sumit Vekariya👋
 
 - 🔭 I’m currently available for Freelance work, as MEAN / MERN Stack | Flutter | Blockchain(Solidity) Developer
