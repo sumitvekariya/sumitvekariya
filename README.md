@@ -4,7 +4,7 @@
 ### Hi there I'm Sumit Vekariya👋
 
 - 🔭 I’m currently available for Freelance work, as MEAN / MERN Stack | Flutter | Blockchain(Solidity) Developer
-- 📫 How to reach me: sarkazein7@gmail.com or whatsapp +91 8200941005
+- 📫 How to reach me: sarkazein7@gmail.com or whatsapp +919727551757
 - 😄 What I do for fun: Err, I write Tech Articles.
 
 
