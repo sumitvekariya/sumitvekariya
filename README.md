@@ -12,6 +12,5 @@
 Since working as a software engineer:
 
 - Officially I code in:  Angular, React, Solidity, Flutter, Node.js, NestJs, GraphQL, Rxjs, NGRX, SVELTE
-- Have developed over 15 apps (in a variety of languages/frameworks/enviroments).
 - Developed a web application making 10m+ in revenue from scratch.
 - led a team of developers at Zettabyte & Codemarket.
