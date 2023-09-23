@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=sumitvekariya&color=brightgreen)
 
 
-### Hi there I'm Sumit Vekariya👋
+### Hi there I'm Sumit 👋
 
 - 🔭 I’m currently available for Freelance work, as MEAN / MERN Stack | Flutter | Blockchain(Solidity) Developer
 - 📫 How to reach me: sarkazein7@gmail.com or whatsapp +919727551757
