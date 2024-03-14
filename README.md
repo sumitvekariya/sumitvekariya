@@ -5,7 +5,7 @@
 
 - 🔭 Building Openbooks, A decentralised P2P book library
 - Experienced in MEAN / MERN Stack | Flutter | Blockchain(Solidity)
-- 📫 How to reach me: sarkazein7@gmail.com or whatsapp +919727551757
+- 📫 How to reach me: sarkazein7@gmail.com
 - 😄 What I do for fun: Err, I write Tech Articles.
 
 
