@@ -7,7 +7,7 @@
 - 📫 How to reach me: sarkazein7@gmail.com
 - 🧘🏽 Certified Yoga Instructor
 - 🎗️ Mentor at: EthMumbai & EthSingapore
-- Open Source Contributor: Ethereum.org, Semaphore Protocol, Unirep
+- Open Source Contributor: Solana, Ethereum.org, Semaphore Protocol, Unirep
 - 😄 What I do for fun: Err, I read/write Tech Articles.
 
 
