@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🔭 Web3 Startups
+- 🔭 AI experiments + Rust + ZK + Identity + Verifiable Credentials
 - 📫 How to reach me: sarkazein7@gmail.com
 - 🧘🏽 Certified Yoga Instructor
 - 🎗️ Mentor at: EthMumbai & EthSingapore
